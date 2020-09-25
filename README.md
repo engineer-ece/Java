@@ -9,6 +9,15 @@
 - [x] [Input and Output]()
 - [x] [Expressions and Blocks]()
 - [x] [Comment]()
+- [x] [Scanner Class]()
+- [x] [Type Casting]()
+- [x] [autoboxing and unboxing]()
+- [x] [Lambda Expression]()
+- [x] [Generics]()
+- [x] [File Class]()
+- [x] [Wrapper Class]()
+- [x] [Command Line Arguments]()
+
 
 ## Java Arrays
 
@@ -65,5 +74,70 @@
 - [x] 5. [Vector]()
 - [x] 6. [Stack]()
 
+## Java Queue
 
- 
+- [x] 1. [Queue Interface]()
+- [x] 2. [PriorityQueue Interface]()
+- [x] 3. [Deque Interface]()
+- [x] 4. [LinkedList]()
+- [x] 5. [ArrayDeque]()
+- [x] 6. [BlockingQueue]()
+- [x] 7. [ArrayBlockingQueue]()
+- [x] 8. [LinkedBlockingQueue]()
+
+## Java Map
+
+- [x] 1. [Map Interface]()
+- [x] 2. [HashMap]()
+- [x] 3. [LinkedHashMap]()
+- [x] 4. [WeakHashMap]()
+- [x] 5. [EnumMap]()
+- [x] 6. [SortedMap Interface]()
+- [x] 7. [NavigableMap Interface]()
+- [x] 8. [TreeMap]()
+- [x] 9. [ConcurrentMap Interface]()
+- [x] 10. [ConcurrentHashMap]()
+
+## Java Set
+
+- [x] 1. [Set Interface]()
+- [x] 2. [Hash Set]()
+- [x] 3. [Enum Set]()
+- [x] 4. [LinkedHash Set]()
+- [x] 5. [SortedSet Interface]()
+- [x] 6. [NavigableSet Interface]()
+- [x] 7. [TreeSet]()
+- [x] 8. [Algorithms]()
+- [x] 9. [Iterator]()
+- [x] 10. [ListIterator]()
+
+## Java I/O Stream
+
+- [x] 1. [I/O Stream]()
+- [x] 2. [InputStream]()
+- [x] 3. [OutputStream]()
+- [x] 4. [FileInputStream]()
+- [x] 5. [FileOutputStream]()
+- [x] 6. [ByteArrayInputStream]()
+- [x] 7. [ByteArrayOutputStream]()
+- [x] 8. [ObjectInputStream]()
+- [x] 9. [ObjectOuputStream]()
+- [x] 10. [BufferedInputStream]()
+- [x] 11. [BufferedOutputStream]()
+- [x] 12. [PrintStream]()
+
+## Java Reader/Writer
+
+- [x] 1. [Reader]()
+- [x] 2. [Writer]()
+- [x] 3. [InputStreamReader]()
+- [x] 4. [OutputStreamWriter]()
+- [x] 5. [FileReader]()
+- [x] 6. [FileWriter]()
+- [x] 7. [BufferedReader]()
+- [x] 8. [BufferedWriter]()
+- [x] 9. [StringReader]()
+- [x] 10. [StringWriter]()
+- [x] 11. [PrintWriter]()
+
+
